@@ -1,0 +1,94 @@
+﻿{
+    "thumburl":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Arun_Bangkok.jpg/960px-Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+    "thumbwidth":  900,
+    "thumbheight":  1200,
+    "responsiveUrls":  {
+                           "2":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Arun_Bangkok.jpg/1920px-Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail"
+                       },
+    "thumbattribs":  {
+                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Arun_Bangkok.jpg/960px-Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                         "decoding":  "async",
+                         "loading":  "lazy",
+                         "width":  900,
+                         "height":  1200,
+                         "srcset":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Arun_Bangkok.jpg/1920px-Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail 2x"
+                     },
+    "url":  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+    "descriptionurl":  "https://commons.wikimedia.org/wiki/File:Wat_Arun_Bangkok.jpg",
+    "descriptionshorturl":  "https://commons.wikimedia.org/wiki/Special:Redirect/page/50526807",
+    "extmetadata":  {
+                        "DateTime":  {
+                                         "value":  "2016-08-07 08:46:40",
+                                         "source":  "mediawiki-metadata",
+                                         "hidden":  ""
+                                     },
+                        "ObjectName":  {
+                                           "value":  "Wat Arun Bangkok",
+                                           "source":  "mediawiki-metadata"
+                                       },
+                        "CommonsMetadataExtension":  {
+                                                         "value":  1.2,
+                                                         "source":  "extension",
+                                                         "hidden":  ""
+                                                     },
+                        "Categories":  {
+                                           "value":  "Wat Arun|Self-published work|February 2016 in Bangkok|Thailand photographs taken on 2016-08-04",
+                                           "source":  "commons-categories",
+                                           "hidden":  ""
+                                       },
+                        "Assessments":  {
+                                            "value":  "",
+                                            "source":  "commons-categories",
+                                            "hidden":  ""
+                                        },
+                        "ImageDescription":  {
+                                                 "value":  "Wat Arun in Bangkok",
+                                                 "source":  "commons-desc-page"
+                                             },
+                        "DateTimeOriginal":  {
+                                                 "value":  "2016-08-04 09:31:11",
+                                                 "source":  "commons-desc-page"
+                                             },
+                        "Credit":  {
+                                       "value":  "\u003cspan class=\"int-own-work\" lang=\"en\"\u003eOwn work\u003c/span\u003e",
+                                       "source":  "commons-desc-page"
+                                   },
+                        "Artist":  {
+                                       "value":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:Cun_Cun\" title=\"User:Cun Cun\"\u003eCun Cun\u003c/a\u003e",
+                                       "source":  "commons-desc-page"
+                                   },
+                        "LicenseShortName":  {
+                                                 "value":  "CC BY-SA 4.0",
+                                                 "source":  "commons-desc-page",
+                                                 "hidden":  ""
+                                             },
+                        "UsageTerms":  {
+                                           "value":  "Creative Commons Attribution-Share Alike 4.0",
+                                           "source":  "commons-desc-page"
+                                       },
+                        "AttributionRequired":  {
+                                                    "value":  "true",
+                                                    "source":  "commons-desc-page",
+                                                    "hidden":  ""
+                                                },
+                        "LicenseUrl":  {
+                                           "value":  "https://creativecommons.org/licenses/by-sa/4.0",
+                                           "source":  "commons-desc-page"
+                                       },
+                        "Copyrighted":  {
+                                            "value":  "True",
+                                            "source":  "commons-desc-page",
+                                            "hidden":  ""
+                                        },
+                        "Restrictions":  {
+                                             "value":  "",
+                                             "source":  "commons-desc-page",
+                                             "hidden":  ""
+                                         },
+                        "License":  {
+                                        "value":  "cc-by-sa-4.0",
+                                        "source":  "commons-templates",
+                                        "hidden":  ""
+                                    }
+                    }
+}

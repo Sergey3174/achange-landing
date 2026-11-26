@@ -1,0 +1,107 @@
+﻿{
+    "thumburl":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ulun_Danu_Bratan.jpg/960px-Ulun_Danu_Bratan.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+    "thumbwidth":  900,
+    "thumbheight":  506,
+    "responsiveUrls":  {
+                           "2":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ulun_Danu_Bratan.jpg/1920px-Ulun_Danu_Bratan.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail"
+                       },
+    "thumbattribs":  {
+                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ulun_Danu_Bratan.jpg/960px-Ulun_Danu_Bratan.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                         "decoding":  "async",
+                         "loading":  "lazy",
+                         "width":  900,
+                         "height":  506,
+                         "srcset":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ulun_Danu_Bratan.jpg/1920px-Ulun_Danu_Bratan.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail 2x"
+                     },
+    "url":  "https://upload.wikimedia.org/wikipedia/commons/0/09/Ulun_Danu_Bratan.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+    "descriptionurl":  "https://commons.wikimedia.org/wiki/File:Ulun_Danu_Bratan.jpg",
+    "descriptionshorturl":  "https://commons.wikimedia.org/wiki/Special:Redirect/page/89908296",
+    "extmetadata":  {
+                        "DateTime":  {
+                                         "value":  "2020-05-06 03:42:18",
+                                         "source":  "mediawiki-metadata",
+                                         "hidden":  ""
+                                     },
+                        "ObjectName":  {
+                                           "value":  "Ulun Danu Bratan",
+                                           "source":  "mediawiki-metadata"
+                                       },
+                        "CommonsMetadataExtension":  {
+                                                         "value":  1.2,
+                                                         "source":  "extension",
+                                                         "hidden":  ""
+                                                     },
+                        "Categories":  {
+                                           "value":  "Pura Ulun Danu Bratan|Candikuning|Panoramics in Bali|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Jorge Franganillo|Al-Hidayah Grand Mosque",
+                                           "source":  "commons-categories",
+                                           "hidden":  ""
+                                       },
+                        "Assessments":  {
+                                            "value":  "",
+                                            "source":  "commons-categories",
+                                            "hidden":  ""
+                                        },
+                        "GPSLatitude":  {
+                                            "value":  "-8.275177",
+                                            "source":  "commons-desc-page"
+                                        },
+                        "GPSLongitude":  {
+                                             "value":  "115.166849",
+                                             "source":  "commons-desc-page"
+                                         },
+                        "GPSMapDatum":  {
+                                            "value":  "WGS-84",
+                                            "source":  "commons-desc-page",
+                                            "hidden":  ""
+                                        },
+                        "ImageDescription":  {
+                                                 "value":  "Ulun Danu Bratan (Bali, Indonesia)",
+                                                 "source":  "commons-desc-page"
+                                             },
+                        "DateTimeOriginal":  {
+                                                 "value":  "2018-08-14 12:32:17",
+                                                 "source":  "commons-desc-page"
+                                             },
+                        "Credit":  {
+                                       "value":  "\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/franganillo/49854600467/\"\u003ehttps://www.flickr.com/photos/franganillo/49854600467/\u003c/a\u003e",
+                                       "source":  "commons-desc-page"
+                                   },
+                        "Artist":  {
+                                       "value":  "Jorge Franganillo",
+                                       "source":  "commons-desc-page"
+                                   },
+                        "LicenseShortName":  {
+                                                 "value":  "CC BY 2.0",
+                                                 "source":  "commons-desc-page",
+                                                 "hidden":  ""
+                                             },
+                        "UsageTerms":  {
+                                           "value":  "Creative Commons Attribution 2.0",
+                                           "source":  "commons-desc-page"
+                                       },
+                        "AttributionRequired":  {
+                                                    "value":  "true",
+                                                    "source":  "commons-desc-page",
+                                                    "hidden":  ""
+                                                },
+                        "LicenseUrl":  {
+                                           "value":  "https://creativecommons.org/licenses/by/2.0",
+                                           "source":  "commons-desc-page"
+                                       },
+                        "Copyrighted":  {
+                                            "value":  "True",
+                                            "source":  "commons-desc-page",
+                                            "hidden":  ""
+                                        },
+                        "Restrictions":  {
+                                             "value":  "",
+                                             "source":  "commons-desc-page",
+                                             "hidden":  ""
+                                         },
+                        "License":  {
+                                        "value":  "cc-by-2.0",
+                                        "source":  "commons-templates",
+                                        "hidden":  ""
+                                    }
+                    }
+}
