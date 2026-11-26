@@ -1,0 +1,210 @@
+{
+    "tariffs": [
+        {
+            "id": 1,
+            "position": 1,
+            "name": "Starter"
+        },
+        {
+            "id": 2,
+            "position": 2,
+            "name": "Silver"
+        },
+        {
+            "id": 3,
+            "position": 3,
+            "name": "Gold"
+        }
+    ],
+    "features": [
+        {
+            "position": 1,
+            "option_key": "countries",
+            "value_type": "integer",
+            "title": "Unlimited Countries",
+            "subtitle": "List your service in unlimited countries"
+        },
+        {
+            "position": 2,
+            "option_key": "cities",
+            "value_type": "integer",
+            "title": "Unlimited Cities",
+            "subtitle": "Add as many cities as you need"
+        },
+        {
+            "position": 3,
+            "option_key": "top_search",
+            "value_type": "boolean",
+            "title": "Top Search Badge",
+            "subtitle": "Stay visible at the top of search results"
+        },
+        {
+            "position": 4,
+            "option_key": "city_manager",
+            "value_type": "boolean",
+            "title": "City & Country Manager",
+            "subtitle": "Support from a local manager who receives requests only from the cities you select"
+        },
+        {
+            "position": 5,
+            "option_key": "priority_support",
+            "value_type": "boolean",
+            "title": "Priority Support",
+            "subtitle": "Fast support, including evenings & weekends"
+        },
+        {
+            "position": 6,
+            "option_key": "api_integration",
+            "value_type": "boolean",
+            "title": "API Integration",
+            "subtitle": "Advanced API integration for your external services"
+        },
+        {
+            "position": 7,
+            "option_key": "client_feedback",
+            "value_type": "boolean",
+            "title": "Client Feedback Management",
+            "subtitle": "Collect and manage customer feedback"
+        }
+    ],
+    "matrix": {
+        "countries": [
+            {
+                "tariff_id": 1,
+                "value": "1"
+            },
+            {
+                "tariff_id": 2,
+                "value": "3"
+            },
+            {
+                "tariff_id": 3,
+                "value": "-1"
+            }
+        ],
+        "cities": [
+            {
+                "tariff_id": 1,
+                "value": "2"
+            },
+            {
+                "tariff_id": 2,
+                "value": "3"
+            },
+            {
+                "tariff_id": 3,
+                "value": "-1"
+            }
+        ],
+        "top_search": [
+            {
+                "tariff_id": 1,
+                "value": "0"
+            },
+            {
+                "tariff_id": 2,
+                "value": "1"
+            },
+            {
+                "tariff_id": 3,
+                "value": "1"
+            }
+        ],
+        "city_manager": [
+            {
+                "tariff_id": 1,
+                "value": "0"
+            },
+            {
+                "tariff_id": 2,
+                "value": "1"
+            },
+            {
+                "tariff_id": 3,
+                "value": "1"
+            }
+        ],
+        "priority_support": [
+            {
+                "tariff_id": 1,
+                "value": "0"
+            },
+            {
+                "tariff_id": 2,
+                "value": "0"
+            },
+            {
+                "tariff_id": 3,
+                "value": "1"
+            }
+        ],
+        "api_integration": [
+            {
+                "tariff_id": 1,
+                "value": "0"
+            },
+            {
+                "tariff_id": 2,
+                "value": "0"
+            },
+            {
+                "tariff_id": 3,
+                "value": "1"
+            }
+        ],
+        "client_feedback": [
+            {
+                "tariff_id": 1,
+                "value": "0"
+            },
+            {
+                "tariff_id": 2,
+                "value": "1"
+            },
+            {
+                "tariff_id": 3,
+                "value": "1"
+            }
+        ]
+    },
+    "periods": [
+        {
+            "tariff_id": 2,
+            "periods": [
+                {
+                    "id": 3,
+                    "duration_unit": "month",
+                    "unit_amount": 1,
+                    "unit_price": 10.0,
+                    "current": false
+                },
+                {
+                    "id": 4,
+                    "duration_unit": "year",
+                    "unit_amount": 1,
+                    "unit_price": 90.0,
+                    "current": false
+                }
+            ]
+        },
+        {
+            "tariff_id": 3,
+            "periods": [
+                {
+                    "id": 5,
+                    "duration_unit": "month",
+                    "unit_amount": 1,
+                    "unit_price": 15.0,
+                    "current": false
+                },
+                {
+                    "id": 6,
+                    "duration_unit": "year",
+                    "unit_amount": 1,
+                    "unit_price": 135.0,
+                    "current": false
+                }
+            ]
+        }
+    ]
+}
